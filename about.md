@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-I work on agent evaluation and reliability. Most of my time goes to one question: did the agent actually do the job, and how would we know?
+I work on modern AI evaluation and reliability. Most of my time goes to one question: did the system actually do the job, and how would we know?
 
 I have a Ph.D. from Duke and peer-reviewed publications in virtual reality and human perception.
 

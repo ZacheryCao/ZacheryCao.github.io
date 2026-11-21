@@ -1,0 +1,18 @@
+title: Zekun Cao
+description: Notes on agent evaluation and reliability.
+author: Zekun Cao
+email: zacherycao@gmail.com
+
+# GitHub Pages builds this with Jekyll automatically. No theme needed;
+# the layouts in _layouts/ render everything.
+markdown: kramdown
+highlighter: rouge
+
+# Pretty URLs: /posts/scoring-an-agent/ instead of .html
+permalink: /posts/:title/
+
+# Files Jekyll should not copy into the built site.
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

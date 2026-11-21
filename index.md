@@ -2,12 +2,6 @@
 layout: default
 title: Home
 ---
-
-<section class="intro">
-  <h1>Notes on agent evaluation</h1>
-  <p>I write about measuring whether an agent actually did the job: rubrics, sampling, regression gates, and the parts of the method I haven't finished yet.</p>
-</section>
-
 <section class="post-list">
   <h2>Posts</h2>
   <ul>
